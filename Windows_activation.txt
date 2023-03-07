@@ -1,0 +1,6 @@
+
+windows activator console:
+curl https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/master/MAS/All-In-One-Version/MAS_AIO.cmd > activation.bat && activation.bat
+
+windows version switch
+https://raw.githubusercontent.com/TerryHuangHD/Windows10-VersionSwitcher/master/Switch.bat > switch.bat && switch.bat 
