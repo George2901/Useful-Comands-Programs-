@@ -4,3 +4,6 @@ curl https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/m
 
 windows version switch
 https://raw.githubusercontent.com/TerryHuangHD/Windows10-VersionSwitcher/master/Switch.bat > switch.bat && switch.bat 
+
+windows 11 baypass / auto upgrade
+curl https://raw.githubusercontent.com/AveYo/MediaCreationTool.bat/main/MediaCreationTool.bat > baypass.bat (run as admin)
