@@ -1,3 +1,0 @@
-Go installer (linux)
-
-bash <(curl -sL https://git.io/go-installer) 
