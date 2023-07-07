@@ -1,4 +1,4 @@
-
+::set-executionpolicy remotesigned
 ::windows service & plm apps uninstaller
 @echo off
 if not "%1"=="am_admin" (
