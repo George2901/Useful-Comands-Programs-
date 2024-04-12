@@ -1,5 +1,5 @@
 
-windows activator console (Powershell):
+windows activator console and more (Powershell):
 irm https://massgrave.dev/get | iex
 
 windows version switch
